@@ -52,3 +52,11 @@ Each track includes key musical attributes used for audio analysis:
 - Checked data types to distinguish between numerical and categorical features
 - Analyzed missing values to assess data completeness
 
+## Data Preprocessing
+- Handled null values
+- Ensured numerical columns were correctly formatted for analysis and visualization
+- Created total playlist and total chart counts across all platforms.
+
+## Key takeaways from EDA
+  
+
