@@ -38,5 +38,17 @@ Each track includes key musical attributes used for audio analysis:
 
 ## Dataset Size
 - **Rows:** 953 tracks  
-- **Columns:** 24 features  
+- **Columns:** 24 features
+
+
+## Data Import & Initial Understanding
+
+- The dataset was loaded using the Pandas library to begin the exploratory data analysis process.  
+- Initial inspection was performed to understand the structure and quality of the data.
+
+### Initial Checks
+- Examined the dataset shape to understand the number of records and features
+- Reviewed column names to identify available variables
+- Checked data types to distinguish between numerical and categorical features
+- Analyzed missing values to assess data completeness
 
