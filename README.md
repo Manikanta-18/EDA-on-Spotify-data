@@ -58,5 +58,9 @@ Each track includes key musical attributes used for audio analysis:
 - Created total playlist and total chart counts across all platforms.
 
 ## Key takeaways from EDA
+- The correlation between total chart presence and streams is weakly positive (r = 0.13), indicating that chart visibility has a limited impact on streaming volume.
+- The distribution shows that C♯ is the most common musical key among popular songs, while D♯ is the least frequent, indicating a strong preference for certain tonalities in commercially successful tracks.
+- Although BPM values range from 65 to 180, 50% of highly danceable songs are concentrated between 100 and 135 BPM, indicating that moderate tempos are most conducive to danceability.
+- Around 72% of tracks fall within the 50–90% energy range with danceability above 50%.
   
 
