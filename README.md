@@ -62,5 +62,6 @@ Each track includes key musical attributes used for audio analysis:
 - The distribution shows that C♯ is the most common musical key among popular songs, while D♯ is the least frequent, indicating a strong preference for certain tonalities in commercially successful tracks.
 - Although BPM values range from 65 to 180, 50% of highly danceable songs are concentrated between 100 and 135 BPM, indicating that moderate tempos are most conducive to danceability.
 - Around 72% of tracks fall within the 50–90% energy range with danceability above 50%.
+- There is a strong positive relationship (r = 0.77) showing that songs featured in more playlists generally achieve higher streaming counts.
   
 
